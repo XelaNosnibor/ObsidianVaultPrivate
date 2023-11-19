@@ -1,0 +1,149 @@
+{
+  "main": {
+    "id": "3e3c3b3d7a357cb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "b364ab1740061349",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e59967299222837",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Dead Exchange - Synergy Investments/output.jpg"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "33bdd2e3c1236211",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ab9ba43d78fde59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b94bc8221936381",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1c9b6239f96f2444",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "757bcdd042395ded",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6f97babb54f60f1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "acfb7fb87ee241fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73f2e5d6038077af",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dead Exchange - Synergy Investments/output.jpg",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "85a7e6cf2413d351",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dead Exchange - Synergy Investments/output.jpg",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b47e1747c17e137c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1f1488494c0e8a44",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dead Exchange - Synergy Investments/output.jpg"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9b94bc8221936381",
+  "lastOpenFiles": []
+}
