@@ -1,4 +1,5 @@
-
+Retake AZ500
 Complete CISSP 
-Complete CISM
 Complete OSCP
+Complete CISM
+

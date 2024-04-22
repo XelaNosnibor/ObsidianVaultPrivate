@@ -11,9 +11,11 @@
             "id": "1e59967299222837",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Dead Exchange - Synergy Investments/output.jpg"
+                "file": "Study/MBA/MGI511 - Project Mgmt Fundamentals/Topic 7 - Project Work & Delivery Performance Domains.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -36,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dead Exchange - Synergy Investments/output.jpg",
+                "file": "Study/MBA/MGI511 - Project Mgmt Fundamentals/Topic 7 - Project Work & Delivery Performance Domains.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dead Exchange - Synergy Investments/output.jpg",
+                "file": "Study/MBA/MGI511 - Project Mgmt Fundamentals/Topic 7 - Project Work & Delivery Performance Domains.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dead Exchange - Synergy Investments/output.jpg"
+                "file": "Study/MBA/MGI511 - Project Mgmt Fundamentals/Topic 7 - Project Work & Delivery Performance Domains.md"
               }
             }
           }
@@ -144,6 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b94bc8221936381",
-  "lastOpenFiles": []
+  "active": "1e59967299222837",
+  "lastOpenFiles": [
+    "Study/MBA/MGI511 - Project Mgmt Fundamentals/Topic 3 - Tailoring.md",
+    "Study/MBA/MGI511 - Project Mgmt Fundamentals/Topic 7 - Project Work & Delivery Performance Domains.md",
+    "Study/MBA/MGI511 - Project Mgmt Fundamentals/Topic 2 - Principles and Performance Domains.md",
+    "Ideas/Woodworking business.md",
+    "Reading List/The Dichotomy of Leadership.md",
+    "Reading List/Tribes We Need You to Lead Us.md",
+    "Reading List/Leadership Strategy and Tactics Field Manual.md",
+    "Study/OSCP/OSCP Study Plan.md",
+    "Study/OSCP/Command-line Tools.md",
+    "Study/OSCP/Jr Penetration Tester.md",
+    "Study Plan.md",
+    "Basic Markdown Syntax.md",
+    "Dead Exchange - Synergy Investments/output.jpg"
+  ]
 }
